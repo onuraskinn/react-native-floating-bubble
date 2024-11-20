@@ -1,6 +1,6 @@
 {
   "name": "react-native-floating-bubble",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Floating bubbles for React Native",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onuraskinn/react-native-floating-bubble.git"
+    "url": "https://github.com/onuraskinn/react-native-floating-bubble.git#main"
   }
 }
